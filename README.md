@@ -112,7 +112,7 @@ private static final long serialVersionUID = 1L;
 
 ## 打开序列化`Serializable` 的源代码,发现的秘密
 
-![Serializable的源代码](https://github.com/xiaoxunyao/Serializable/blob/master/img/RVASKLUBYIHKS9A.png)
+![Serializable的源代码](/img/RVASKLUBYIHKS9A.png)
 
 ### 我们发现这是一个空的接口,那为什么需要实现他呢?
 
